@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" align="right" width="" height="240">
+<img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" align="right" width="" height="200">
 
 ### Hi there, I'm Anıl Çetin 👋
 

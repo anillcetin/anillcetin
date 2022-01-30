@@ -36,10 +36,17 @@
 <br/>
 <br/>
 
+
 <details>
+  <summary>:bulb: Most Used Languages </summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anillcetin&theme=vue-dark">
+
+</details>
+
+<!-- <details>
   <summary>:bulb: Most Used Languages </summary>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anillcetin&theme=vue-dark&show_icons=true">
-</details>
+</details> -->
 
 
 
@@ -47,7 +54,7 @@
 [instagram]:https://www.instagram.com/anillcetiin/
 [twitter]:https://twitter.com/anillcetin1
 
-<!--
+
 **anillcetin/anillcetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -60,4 +67,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

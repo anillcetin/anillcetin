@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Anıl Çetin 👋
 
-- 👨‍🎓 I am currently studying Computer Engineering at <strong>Karabük University</strong> 
+- 👨‍🎓 I am currently interested in <strong>SAP</strong> and <strong>FIORI</strong>. 
 - 📫 How to reach me cetinnanill@gmail.com
 
 <br/>
